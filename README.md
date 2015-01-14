@@ -5,10 +5,10 @@ Authors
 -------
 
 1. [metachronica_logo_circle_and_cyrillic_text_v1.svg](./metachronica_logo_circle_and_cyrillic_text_v1.svg)<br>
-   Circle: Mark Korneev<br>
+   Circle: Mark Korneev (base64 encoded contact: a29ybmVldm1hcmsgW2F0XSBnbWFpbCAoZG90KSBjb20K)<br>
    Cyrillic text: [Viacheslav Lotsmanov](https://github.com/unclechu)
 2. [metachronica_logo_circle_colored_v1.svg](./metachronica_logo_circle_colored_v1.svg)<br>
-   Circle: Mark Korneev<br>
+   Circle: Mark Korneev (base64 encoded contact: a29ybmVldm1hcmsgW2F0XSBnbWFpbCAoZG90KSBjb20K)<br>
    Coloring: [Viacheslav Lotsmanov](https://github.com/unclechu)
 
 License
