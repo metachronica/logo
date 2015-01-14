@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   id="svg3000"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="metachronica_logo_circle_colored_v1.svg"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs3002">
+    <linearGradient
+       id="linearGradient4972">
+      <stop
+         style="stop-color:#2b8bf4;stop-opacity:1;"
+         offset="0"
+         id="stop4974" />
+      <stop
+         style="stop-color:#3a307c;stop-opacity:1;"
+         offset="1"
+         id="stop4976" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4972"
+       id="linearGradient4978"
+       x1="7"
+       y1="1044.3622"
+       x2="194"
+       y2="860.36218"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="182.5"
+     inkscape:cy="160"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="834"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3005">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="CircleLogo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36218)">
+    <path
+       style="fill:url(#linearGradient4978);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 99.977836,854.36219 C 154.1006,854.36219 198,898.21547 198,952.34003 198,1006.4645 154.1006,1050.3622 99.977836,1050.3622 45.853283,1050.3622 2,1006.4645 2,952.34003 2,898.21547 45.853283,854.36219 99.977836,854.36219 z m -8.556438,43.00385 c -19.975406,-0.83756 -67.354883,50.92265 -53.289301,71.64351 8.217725,12.10316 52.93463,58.11455 69.870153,28.59536 17.10934,-29.82429 71.12217,-12.78589 53.37798,-28.59536 -22.9738,-20.46805 -57.94259,-20.01586 -61.624062,-61.62406 -0.603492,-6.82132 -3.72507,-9.82618 -8.33477,-10.01945 z m -5.896404,16.71387 c 3.273613,0 6.910762,8.65573 11.039132,14.8075 2.867514,4.27201 7.930444,7.62542 4.655054,7.62542 -3.275384,0 -11.993195,-0.26778 -16.137524,-5.71906 -3.11401,-4.09645 -2.832048,-16.71386 0.443338,-16.71386 z m 29.969686,67.91948 c 0.34395,0 0.49012,0.59727 0.13293,2.39402 -0.95229,4.79161 -14.16201,15.24731 -15.38385,8.86677 -0.780275,-4.07516 2.05886,-5.84312 5.54173,-6.42833 7.0154,-1.17752 6.97283,-2.37813 7.58111,-2.88178 0.38016,-0.31366 1.55475,-1.94373 2.12801,-1.95068 z"
+       id="MetachronicaLogoCircle"
+       inkscape:connector-curvature="0">
+      <desc
+         id="desc3134"
+         style="fill-opacity:1.0;fill:url(#linearGradient4978)">Authors:
+  Mark Korneev
+  Viacheslav Lotsmanov
+
+License:
+  CC Attribution-ShareAlike (CC-BY-SA)</desc>
+    </path>
+  </g>
+</svg>
